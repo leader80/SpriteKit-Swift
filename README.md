@@ -42,3 +42,4 @@ This project will highlight a few of the core language features about Swift, but
 Concept, Design & Development
 ---
 
+-[__Squid Ink Games__] (http://www.squidinkgames.com)
